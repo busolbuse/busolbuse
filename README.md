@@ -1,15 +1,20 @@
-### 😀Merhaba!👋 
-😄Ben Buse Berren Ünal.Zonguldak Bülent Ecevit üniversitesi Bilgisayar mühendisliği 2.sınıf öğrencisiyim. 
+<h1 align="center">Hi 👋, I'm Rumeysa</h1>
+<h3 align="center">I am the developer of everything I wonder about</h3>
 
-⌚Şuana kadar birçok alanla ilgilendim.Şuanda aktif olarak web programlama öğreniyorum ve aynı zamanda siber güvenlik alanında kendimi geliştiriyorum.
+- 🌱 I’m currently learning **Backend(Asp.net core)**
 
-👩🏽‍💻HTML,CSS ve JS kulanarak başlangıç-orta düzeyde web sitesi geliştiriyorum.
+- 👨‍💻 All of my projects are available at [https://github.com/KocHanim?tab=repositories](https://github.com/KocHanim?tab=repositories)
 
-👩🏽‍💻Daha öncelerinde python kullanarak görüntü işleme ve yapay zeka alanlarında projeler geliştirdim.
+- 💬 Ask me about **Artificial Intelligence**
 
-👩‍💻Siber güvenlik alanında Sızma testi, Etik hacker,Tersine Mühendislik,Web Güvenliği eğitimleri aldım.
+- 📫 How to reach me **rumeysakocresmi@gmail.com**
 
-⚡İlgili ollduğumdan dolayı teknolojik gelişmeleri yakından takip ediyorum.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buse-berren-%C3%BCnal-9146b61a5/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buse-berren-%C3%BCnal-9146b61a5/" alt="buse berren unal" height="30" width="40" /></a>
+</p>
+
+
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buse-berren-%C3%BCnal-9146b61a5/) 
 
