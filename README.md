@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buse-berren-%C3%BCnal-9146b61a5/) 
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buse-berren-%C3%BCnal-9146b61a5/)]
 
 <!--
 **busolbuse/busolbuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
