@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rumeysa</h1>
-<h3 align="center">I am the developer of everything I wonder about</h3>
+<h1 align="center">Hi 👋, I'm Buse</h1>
+<h3 align="center">I am the developer.</h3>
 
-- 🌱 I’m currently learning **Backend(Asp.net core)**
+- 🌱 I’m currently learning *css**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KocHanim?tab=repositories](https://github.com/KocHanim?tab=repositories)
 
-- 💬 Ask me about **Artificial Intelligence**
-
-- 📫 How to reach me **rumeysakocresmi@gmail.com**
+- 📫 How to reach me **bunal9373@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
