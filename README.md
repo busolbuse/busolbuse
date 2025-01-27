@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Buse</h1>
 <h3 align="center">I am the developer.</h3>
 
-- 🌱 I’m currently learning *Backend(#C)* and C++
+- 🌱 I’m currently learning *#C* to develop games.
+- 🌱 I’m passionate about developing games!
 - 🌱 I have developed projects in the fields of image processing and *artificial intelligence using python.**
 - 🌱 I have received Infiltration test, Ethical hacker, Reverse Engineering, Web Security trainings in the field of cyber security.
 - ⚡ I follow technological developments closely because I am interested.
