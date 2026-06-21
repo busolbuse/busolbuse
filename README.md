@@ -1,6 +1,6 @@
 # Hi there, I'm Buse! 👋
 
-I am a  **Computer Engineering** student and a passionate **AI & Software Engineer** dedicated to building resilient, scalable backend architectures, autonomous systems, and mission-critical applications. 
+Computer Engineering graduate with a strong focus on R&D and software engineering and a passionate **AI & Software Engineer** dedicated to building resilient, scalable backend architectures, autonomous systems, and mission-critical applications. 
 
 With a strong foundation in deep learning, computer vision, data analytics, and secure coding, I focus on bridging the gap between advanced artificial intelligence and robust systems engineering.
 
